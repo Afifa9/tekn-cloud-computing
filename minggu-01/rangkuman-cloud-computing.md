@@ -24,25 +24,9 @@ Ada tiga poin utama yang diperlukan dalam implementasi cloud computing, yaitu:
   3. Penghubung antara keduanya, Penghubung keduanya bisa berupa jaringan LAN atau internet.
 **Implementasi cloud computing dalam pemerintahan (E-Goverment)**, Cloud Computing dalam pemerintahan (E-Goverment) dapat mendongkrak kinerja khususnya dalam bidang pemerintahan. E-Goverment dapat membantu para staf di bidang pemerintahan untuk memberikan pelayanan yang lebih baik ke masyarakat. Pemerintah dalam negara Indonesia telah menggunakan cloud computing. Contoh pertama yaitu sebagai penyediaan sumber informasi. Badan Pengkajian Dan Penerapan Teknologi (BPPT) 
 # Contoh komputasi awan
-1. Google Drive
-Fitur-fitur Google Drive: 1. Penyimpanan gratis sebesar 15 GB 2. Memungkinkan membuat dokumen
-    c. Berbagi file
-    d. Terintegrasi dengan layanan Google lainnya
-    e. Fasilitas pencarian
-    f. Menampilkan berbagai file
-    g. Menjalankan aplikasi
-2. Windows Azure
-  Fitur-fitur Windows Azure
-  a. Layanan Infrastruktur
-  b. Kembangkan dan Lakukan Percobaan
-  c. Big Data
-  d. Aplikasi Mobile
-  e. Media
-  f. Aplikasi Web
-    Windows Azure menawarkan keamanan dan fleksibilitas pengembangan, penyebaran, dan pilihan skala untuk berbagai macam ukuran aplikasi web.
-  Penyimpanan, Pencadangan, dan Pemulihan. Windows Azure menyediakan penyimpanan, pencadangan, dan solusi pemulihan data apapun.
-  g. Identitas dan Manajemen Akses
-  h. Integrasi
-  i. Manajemen Data
+**1. Google Drive**
+Fitur-fitur Google Drive: Penyimpanan gratis sebesar 15 GB, Memungkinkan membuat dokumen, Berbagi file, Terintegrasi dengan layanan Google lainnya, Fasilitas pencarian, Menampilkan berbagai file, Menjalankan aplikasi.
+**2. Windows Azure**
+Fitur-fitur Windows Azure :Layanan Infrastruktur, Kembangkan dan Lakukan Percobaan, Big Data, Aplikasi Mobile, Media, Aplikasi Web, Identitas dan Manajemen Akses, Integrasi, Manajemen Data
 # Masalah yang dihadapi
   Dunia komputasi awan merupakan dunia baru karena tidak semua orang mengetahui teknologi baru tersebut. Karena masih baru tersebut muncul beberapa masalah dalam pengenalannya ke dunia luar. Contohnya komputasi awan merupakan sarana penyimpanan data melalui jaringan internet maka internet wajib bagi pemakai komputasi awan apabila terjadi masalah dalam internet maka akan menyebabkan komputer tersebut menjadi lambat karena proses yang terlalu lama. Masalah lain adalah jika suatu perusahaan menggunakan komputasi awan dalam penyimpanan datanya maka akan sangat tergantung pada vendor (penyedia layanan komputasi awan) karena perusahaan tersebut tidak mempunyai server langsung dalam komputasi awan dan juga apabila vendor mempunyai layanan backup yang buruk atau server pada vendor rusak akan menyebabkan kerugian besar pada perusahaan tersebut karena semua data yang tersimpan pada vendor akan mengalami masalah. 
