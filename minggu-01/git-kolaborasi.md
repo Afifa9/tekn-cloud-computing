@@ -10,7 +10,7 @@
       ![gmb01](https://user-images.githubusercontent.com/114986359/224532029-5095463c-3965-4cbf-b0bc-4c82aebbe591.png)
       ![gmb02](https://user-images.githubusercontent.com/114986359/224532068-f40696e9-2c78-42a6-a2a9-58454dca1f94.png)
 Setelah proses tersebut, clone di komputer lokal:
-![image](https://user-images.githubusercontent.com/114986359/224532247-899312ac-a165-4964-9af6-022171515e76.png)
+      ![image](https://user-images.githubusercontent.com/114986359/224532247-899312ac-a165-4964-9af6-022171515e76.png)
 Setelah itu, konfigurasikan repo lokal kontributor. Pada kondisi saat ini, di komputer lokal sudah terdapat repo playground-1 yang berada pada direktori dengan nama yang sama. Untuk keperluan berkontribusi, ada 2 nama repo yang harus diatur:
   ```origin: menunjuk ke repo milik kontributor di GitHub, hasil dari fork.
   upstream: menunjuk ke repo milik upstream author (repo asli) di account oldstager.```
