@@ -25,9 +25,7 @@ Ada tiga poin utama yang diperlukan dalam implementasi cloud computing, yaitu:
 **Implementasi cloud computing dalam pemerintahan (E-Goverment)**, Cloud Computing dalam pemerintahan (E-Goverment) dapat mendongkrak kinerja khususnya dalam bidang pemerintahan. E-Goverment dapat membantu para staf di bidang pemerintahan untuk memberikan pelayanan yang lebih baik ke masyarakat. Pemerintah dalam negara Indonesia telah menggunakan cloud computing. Contoh pertama yaitu sebagai penyediaan sumber informasi. Badan Pengkajian Dan Penerapan Teknologi (BPPT) 
 # Contoh komputasi awan
 1. Google Drive
-  Fitur-fitur Google Drive: 
-    a. Penyimpanan gratis sebesar 15 GB
-    b. Memungkinkan membuat dokumen
+Fitur-fitur Google Drive: 1. Penyimpanan gratis sebesar 15 GB 2. Memungkinkan membuat dokumen
     c. Berbagi file
     d. Terintegrasi dengan layanan Google lainnya
     e. Fasilitas pencarian
