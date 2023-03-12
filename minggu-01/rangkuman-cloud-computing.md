@@ -10,4 +10,10 @@
   3. Keamanan, yaitu data kita bisa terjamin keamanan nya oleh penyedia layanan cloud computing, sehingga bagi perusahaan yang berbasis IT, data bisa disimpan secara aman di penyedia cloud computing. Itu juga mengurangi biaya yang diperlukan untuk mengamankan data perusahaan.
   4. Kreasi, yaitu para user bisa melakukan/mengembangkan kreasi atau project mereka tanpa harus mengirimkan project mereka secara langsung ke perusahaan, tapi user bisa mengirimkan nya lewat penyedia layanan cloud computing.
   5. Kecemasan, ketika terjadi bencana alam data milik kita tersimpan aman di cloud meskipun hardisk atau gadget kita rusak
- 
+# Layanan komputasi awan
+  **1. Infrastructure as a Service (IaaS)**
+     layanan komputasi awan yang menyediakan infrastruktur IT berupa CPU, RAM, storage, bandwith dan konfigurasi lain. Semua komponen tersebut digunakan untuk membangun komputer virtual.Perusahaan yang menyediakan IaaS adalah Amazon EC2, Telkom Cloud dan BizNetCloud.
+  **2. Platform as a Service (PaaS)**
+     Biasanya sudah terdapat sistem operasi, database, web server dan framework aplikasi agar dapat menjalankan aplikasi yang telah dibuat. Contoh penyedia layanan PaaS adalah Amazon Web Service dan Windows Azure.
+  **3.Software as a Service (SaaS)**
+   layanan komputasi awan di mana kita bisa langsung menggunakan aplikasi yang telah disediakan. Penyedia layanan mengelola infrastruktur dan platform yang menjalankan aplikasi tersebut. Contoh layanan aplikasi E-mail yaitu Gmail, Yahoo Mail dan Microsoft Outlook sedangkan contoh aplikasi media sosial adalah Twitter, Facebook dan Google+. Keuntungan dari layanan ini adalah pengguna tidak perlu membeli lisensi untuk mengakses aplikasi tersebut. Pengguna hanya membutuhkan perangkat klien komputasi awan yang terhubung ke internet. Ada juga aplikasi yang mengharuskan pengguna untuk berlangganan agar bisa mengakses aplikasi yaitu Office 365 dan Adobe Creative Cloud.
