@@ -20,9 +20,22 @@
 
 # Metoda dan implementasi komputasi awan
   Cara kerja penyimpanan data dan replikasi data pada pemanfaatan teknologi cloud computing. Dengan Cloud Computing komputer lokal tidak lagi harus menjalankan pekerjaan komputasi berat untuk menjalankan aplikasi yang dibutuhkan, tidak perlu menginstal sebuah paket perangkat lunak untuk setiap komputer, kita hanya melakukan installasi operating system pada satu aplikasi. Jaringan komputer yang membentuk awan (internet) menangani mereka sebagai gantinya. Server ini yang akan menjalankan semua aplikasi mulai dari E-mail, Pengolah kata, sampai program analisis data yang kompleks. Ketika pengguna mengakses awan (internet) untuk sebuah website populer, banyak hal yang bisa terjadi. Pengguna Internet Protokol (IP) misalnya dapat digunakan untuk menetapkan di mana pengguna berada (geolocation). Domain Name System (DNS) jasa kemudian dapat mengarahkan pengguna ke sebuah cluster server yang dekat dengan pengguna sehingga situs bisa diakses dengan cepat dan dalam bahasa lokal mereka. Pengguna tidak login ke server, tetapi mereka login ke layanan mereka menggunakan id sesi atau cookie yang telah didapatkan yang disimpan dalam browser mereka. Apa yang user lihat pada browser biasanya datang dari web server. Webservers menjalankan perangkat lunak dan menyajikan pengguna dengan cara interface yang digunakan untuk mengumpulkan perintah atau instruksi dari pengguna (klik, mengetik, upload dan lain-lain) Perintah-perintah ini kemudian diinterpretasikan oleh webservers atau diproses oleh server aplikasi. Informasi kemudian disimpan pada atau diambil dari database server atau file server dan pengguna kemudian disajikan dengan halaman yang telah diperbarui. Data di beberapa server disinkronisasikan di seluruh dunia untuk akses global cepat dan juga untuk mencegah kehilangan data.
-  
- # Implementasi komputasi awan
+**Implementasi komputasi awan**
 Ada tiga poin utama yang diperlukan dalam implementasi cloud computing, yaitu:
   1. Computer front end, Biasanya merupakan Komputer desktop biasa.
   2. Computer back end, Computer back end dalam skala besar biasanya berupa server komputer yang dilengkapi dengan data center dalam rak-rak besar. Pada umumnya Computer back end harus mempunyai kinerja yang tinggi, karena harus melayani mungkin hinggga ribuan permintaan data.
   3. Penghubung antara keduanya, Penghubung keduanya bisa berupa jaringan LAN atau internet.
+**Implementasi cloud computing dalam pemerintahan (E-Goverment)**, Cloud Computing dalam pemerintahan (E-Goverment) dapat mendongkrak kinerja khususnya dalam bidang pemerintahan. E-Goverment dapat membantu para staf di bidang pemerintahan untuk memberikan pelayanan yang lebih baik ke masyarakat. Pemerintah dalam negara Indonesia telah menggunakan cloud computing. Contoh pertama yaitu sebagai penyediaan sumber informasi. Badan Pengkajian Dan Penerapan Teknologi (BPPT) 
+# Contoh komputasi awan
+1. Google Drive
+**Fitur-fitur Google Drive
+a. Penyimpanan gratis sebesar 15 GB
+b. Memungkinkan membuat dokumen
+c. Berbagi file
+d. Terintegrasi dengan layanan Google lainnya
+e. Fasilitas pencarian
+f. Menampilkan berbagai file
+g. Menjalankan aplikasi**
+2. Windows Azure
+# Masalah yang dihadapi
+  Dunia komputasi awan merupakan dunia baru karena tidak semua orang mengetahui teknologi baru tersebut. Karena masih baru tersebut muncul beberapa masalah dalam pengenalannya ke dunia luar. Contohnya komputasi awan merupakan sarana penyimpanan data melalui jaringan internet maka internet wajib bagi pemakai komputasi awan apabila terjadi masalah dalam internet maka akan menyebabkan komputer tersebut menjadi lambat karena proses yang terlalu lama. Masalah lain adalah jika suatu perusahaan menggunakan komputasi awan dalam penyimpanan datanya maka akan sangat tergantung pada vendor (penyedia layanan komputasi awan) karena perusahaan tersebut tidak mempunyai server langsung dalam komputasi awan dan juga apabila vendor mempunyai layanan backup yang buruk atau server pada vendor rusak akan menyebabkan kerugian besar pada perusahaan tersebut karena semua data yang tersimpan pada vendor akan mengalami masalah. 
