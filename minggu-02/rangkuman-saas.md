@@ -10,7 +10,7 @@ Latihan
      * untuk menjelaskan perbedaan, populer juga gambar segitiga:
      ![image](https://user-images.githubusercontent.com/114986359/225199810-7210e404-80e2-4b2e-9d31-b794524a39e5.png)
 
-### 2. SaaS Platform Architecture
+### 2. SaaS Platform Architecture ###
 ![image](https://user-images.githubusercontent.com/114986359/225203151-1e3b220b-9d9c-4fcc-b7fe-163de3335557.png)
 
 Adalah model pengiriman dan lisensi perangkat lunak di mana perangkat lunak dilisensikan berdasarkan langganan dan dihosting secara terpusat. Pengguna dapat mengaksesnya dengan bantuan web browser. SaaS adalah model pengiriman umum untuk banyak aplikasi bisnis, termasuk perangkat lunak perkantoran dan perpesanan, perangkat lunak manajemen, virtualisasi, dll. Ini adalah bagian dari nomenklatur komputasi awan, bersama dengan infrastruktur sebagai layanan (IaaS), platform sebagai layanan (PaaS) , desktop sebagai layanan (DaaS). Ini terkait dengan penyedia layanan   aplikasi (ASP) yang menyediakan aplikasi "shrink-wrap" untuk pengguna bisnis melalui Internet. Aplikasi SaaS adalah arsitektur multi-penyewa instans tunggal yang memberikan pengalaman kaya fitur yang bersaing dengan aplikasi lokal. Agregator menggabungkan penawaran SaaS dari berbagai vendor dan menawarkannya sebagai bagian dari platform aplikasi terpadu.
@@ -37,6 +37,10 @@ Dampak yang diakibatkan adalah menyebabkan perubahan mendasar pada peran departe
 
 Perusahaan sebaiknya mempertimbangkan fleksibilitas dan implikasi manajemen risiko dari penambahan SaaS ke portofolio layanan TI mereka. Integrasi dan komposisi adalah komponen penting dalam strategi arsitektur Anda untuk menggabungkan SaaS dengan sukses sebagai anggota yang berpartisipasi penuh dari infrastruktur TI Anda yang berpusat pada layanan.
 
-## 3. SaaS (Software as a Service) Platform  itecture
+## 3. SaaS (Software as a Service) Platform  itecture ###
+![image](https://user-images.githubusercontent.com/114986359/225204576-4b360f99-5f34-432f-be44-eda0181f344f.png)
+* **Apa itu Platform Arsitektur SaaS?**
+![image](https://user-images.githubusercontent.com/114986359/225204697-53a52ae1-7131-451c-9b17-5fd13f67f8ea.png)
+
 
 6. How to build a cloud-based SaaS Application
