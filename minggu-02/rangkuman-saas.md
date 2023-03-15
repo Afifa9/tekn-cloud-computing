@@ -11,6 +11,7 @@ Latihan
      * untuk menjelaskan perbedaan, populer juga gambar segitiga:
      ![image](https://user-images.githubusercontent.com/114986359/225199810-7210e404-80e2-4b2e-9d31-b794524a39e5.png)
 
-3. SaaS Platform Architecture
-4. SaaS (Software as a Service) Platform  itecture
-5. How to build a cloud-based SaaS Application
+2. SaaS Platform Architecture
+     ![image](https://user-images.githubusercontent.com/114986359/225200270-28ed40a1-50d1-439a-990c-2ee00a8301c7.png)
+5. SaaS (Software as a Service) Platform  itecture
+6. How to build a cloud-based SaaS Application
