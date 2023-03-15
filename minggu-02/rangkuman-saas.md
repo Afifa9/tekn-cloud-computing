@@ -12,6 +12,6 @@ Latihan
      ![image](https://user-images.githubusercontent.com/114986359/225199810-7210e404-80e2-4b2e-9d31-b794524a39e5.png)
 
 2. SaaS Platform Architecture
-     ![image](https://user-images.githubusercontent.com/114986359/225200270-28ed40a1-50d1-439a-990c-2ee00a8301c7.png)
+    Perangkat lunak sebagai layanan adalah model pengiriman dan lisensi perangkat lunak di mana perangkat lunak dilisensikan            berdasarkan langganan dan dihosting secara terpusat. Pengguna dapat mengaksesnya dengan bantuan web browser. SaaS adalah        model pengiriman umum untuk banyak aplikasi bisnis, termasuk perangkat lunak perkantoran dan perpesanan, perangkat lunak        manajemen, virtualisasi, dll. Ini adalah bagian dari nomenklatur komputasi awan, bersama dengan infrastruktur sebagai            layanan (IaaS), platform sebagai layanan (PaaS) , desktop sebagai layanan (DaaS). Ini terkait dengan penyedia layanan            aplikasi (ASP) yang menyediakan aplikasi "shrink-wrap" untuk pengguna bisnis melalui Internet. 
 5. SaaS (Software as a Service) Platform  itecture
 6. How to build a cloud-based SaaS Application
