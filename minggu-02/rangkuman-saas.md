@@ -8,6 +8,7 @@ Latihan
      * Di SaaS, Anda menambahkan data Anda (semua bagian lain dari penawaran). Perangkat Lunak sebagai Layanan (SaaS ): Kadang-        kadang disebut sebagai "perangkat lunak berdasarkan permintaan". Biasanya diakses oleh pengguna menggunakan thin client          melalui web browser. Di SaaS semuanya dapat dikelola oleh vendor: aplikasi, runtime, data, middleware, OS, virtualisasi,        server, penyimpanan, dan jaringan, Pengguna akhir harus menggunakannya.
      * gambar ini menjelaskan lebih detail perbedaan:
      ![image](https://user-images.githubusercontent.com/114986359/225199403-31442a4f-a350-4158-9368-0727050c2c66.png)
+     untuk menjelaskan perbedaan, populer juga gambar segitiga:
 
 3. SaaS Platform Architecture
 4. SaaS (Software as a Service) Platform  itecture
