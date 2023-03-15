@@ -41,8 +41,8 @@ Perusahaan sebaiknya mempertimbangkan fleksibilitas dan implikasi manajemen risi
 ![image](https://user-images.githubusercontent.com/114986359/225204576-4b360f99-5f34-432f-be44-eda0181f344f.png)
 SaaS adalah cara untuk mengirimkan perangkat lunak, penyedia perangkat lunak secara terpusat menghosting satu atau lebih aplikasi dan membuatnya tersedia untuk pelanggan melalui internet.Ledakan komputasi Cloud, didorong oleh penyedia layanan cloud seperti Microsoft dengan Azure, Amazon Web Services (AWS), Oracle, dan IBM, telah melihat pertumbuhan produk dan layanan lain yang disampaikan melalui internet. Ini termasuk model SaaS berikut:
 
-    * Infrastruktur sebagai Layanan
-    * Platform sebagai Layanan
-    * Pembelajaran Mesin sebagai Layanan
+   * Infrastruktur sebagai Layanan
+   * Platform sebagai Layanan
+   * Pembelajaran Mesin sebagai Layanan
 
 6. How to build a cloud-based SaaS Application
