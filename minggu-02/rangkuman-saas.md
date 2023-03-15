@@ -26,15 +26,17 @@ Ada dua varietas utama SaaS:
 * **Manfaat SAAS:**
 
 Secara tradisional, menerapkan sistem perangkat lunak skala besar telah menjadi pekerjaan besar. Menyebarkan sistem ini di perusahaan besar membutuhkan biaya lebih banyak. Persyaratan waktu, staf, dan anggaran untuk penyebaran sebesar ini merupakan risiko yang signifikan bagi organisasi dengan ukuran apa pun, dan seringkali menempatkan perangkat lunak semacam itu di luar jangkauan organisasi yang lebih kecil yang jika tidak dapat memperoleh banyak manfaat darinya. kegunaan. Model pengiriman sesuai permintaan mengubah beberapa hal ini. Aplikasi SaaS tidak memerlukan penyebaran infrastruktur besar di lokasi klien. Integrasi dapat direncanakan dan dilaksanakan dengan upaya minimal, menciptakan salah satu interval waktu tersingkat yang memungkinkan untuk investasi TI yang besar. Ini juga memungkinkan sejumlah vendor SaaS untuk menawarkan "test drive" perangkat lunak mereka yang bebas risiko (dan seringkali gratis ) untuk jangka waktu terbatas, seperti 30 hari. Pelanggan diberi sebuah kesempatan untuk mencoba sebuah perangkat lunak sebelum membeli.
-* **Bagaimana SaaS Mempengaruhi TI?
+* **Bagaimana SaaS Mempengaruhi TI?**
 
 Beberapa area yang perlu diperhatikan dalam daftar periksa uji tuntas meliputi, Standar keamanan data : Memindahkan data bisnis penting “ke luar tembok” menimbulkan risiko kehilangan data atau pemaparan informasi sensitif secara tidak sengaja. Nilai kebutuhan keamanan data Anda, dan pastikan penyedia memiliki tindakan untuk memenuhi standar yang Anda tetapkan. Layanan pelaporan : Karena SaaS melibatkan penyerahan kontrol langsung atas beberapa data Anda, pelaporan yang akurat dan bermanfaat sangatlah penting. Tentukan layanan pelaporan apa yang ditawarkan penyedia, dan apakah layanan tersebut kompatibel dengan persyaratan intelijen bisnis Anda.
-* **Dampak pada Peran dan Tanggung Jawab TI
+* **Dampak pada Peran dan Tanggung Jawab TI**
 
 Dampak yang diakibatkan adalah menyebabkan perubahan mendasar pada peran departemen TI sebagai penyedia layanan informasi. Di masa lalu, sifat penyebaran perangkat lunak telah menempatkan kepala petugas informasi sebagai penjaga gerbang. Mereka dapat menggunakan hak veto dengan menyatakan bahwa mereka tidak akan menyimpannya di pusat data. Dengan SaaS , kendali pusat data tidak harus sama dengan kendali atas seluruh lingkungan komputasi perusahaan. Hal ini dapat menyebabkan penjaga gerbang takut kehilangan kendali.
 
-* **Kesimpulan
+* **Kesimpulan**
 
-Perusahaan sebaiknya mempertimbangkan fleksibilitas dan implikasi manajemen risiko dari penambahan SaaS ke portofolio layanan TI mereka. Integrasi dan komposisi adalah komponen penting dalam strategi arsitektur Anda untuk menggabungkan SaaS dengan sukses sebagai anggota yang berpartisipasi penuh dari infrastruktur TI Anda yang berpusat pada layanan. 
-5. SaaS (Software as a Service) Platform  itecture
+Perusahaan sebaiknya mempertimbangkan fleksibilitas dan implikasi manajemen risiko dari penambahan SaaS ke portofolio layanan TI mereka. Integrasi dan komposisi adalah komponen penting dalam strategi arsitektur Anda untuk menggabungkan SaaS dengan sukses sebagai anggota yang berpartisipasi penuh dari infrastruktur TI Anda yang berpusat pada layanan.
+
+## 3. SaaS (Software as a Service) Platform  itecture
+
 6. How to build a cloud-based SaaS Application
