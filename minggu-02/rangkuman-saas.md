@@ -45,4 +45,45 @@ SaaS adalah cara untuk mengirimkan perangkat lunak, penyedia perangkat lunak sec
    * Platform sebagai Layanan
    * Pembelajaran Mesin sebagai Layanan
 
+Pembaruan aplikasi arsitektur SaaS semuanya ditangani oleh penyedia. Pelanggan menginstal ulang versi baru suatu produk karena perangkat lunak dikirimkan melalui internet. beroperasi sebagai arsitektur SaaS multi-penyewa di mana semua database dan templat yang relevan dengan pengguna berlisensi dapat diakses di mana pun lokasinya. 
+
+* **KONSUMEN**
+
+Dari sudut pandang konsumen, aplikasi SaaS adalah salah satu cara termudah dan paling andal untuk menggunakan layanan atau produk digital. layanan aplikasi SaaS yang ditargetkan untuk konsumen seperti:Netflix, Microsoft Office 365,Amazon Perdana, Twitter, Facebook, Google Dokumen, Tenaga penjualan.
+
+* **BISNIS**
+
+Dari perspektif bisnis, produk perangkat lunak yang disampaikan "sebagai layanan" memungkinkan bisnis untuk menawarkan produk mereka dalam skala besar, secara global, sementara juga memungkinkan mereka mempertahankan kontrol keseluruhan atas produk mereka. manfaat lain dari penerapan arsitektur SaaS dalam bisnis termasuk, namun tidak terbatas pada:
+    * Mengurangi waktu ke pasar;
+    * Biaya pemeliharaan lebih rendah;
+    * Peningkatan otomatisasi;
+    * Peningkatan yang lebih mudah;
+    * Lebih hemat biaya;
+    
+* **Fitur Utama dan Manfaat Platform Arsitektur SaaS**
+
+    * Kesederhanaan Aplikasi Arsitektur SaaS
+    * Nilai Ekonomis
+    * Keamanan
+    * Kesesuaian
+* **Kemampuan Solusi SaaS**
+
+Platform SaaS memiliki beragam kemampuan. Apalagi jika digabungkan dengan penawaran cloud lainnya seperti IaaS (Infrastruktur sebagai Layanan) dan PaaS (Platform sebagai Layanan). Teknologi cloud seperti Microsoft Azure memungkinkan Anda menyediakan server yang dapat menghosting situs web, database, dan banyak lagi.
+
+* **Kerugian Platform SaaS**
+
+    * Kurangnya kontrol dalam platform Arsitektur SaaS
+    * Ekosistem terbatas
+    * Pertunjukan
+    * Kekhawatiran Data
+    * Komponen Utama Platform SaaS
+    * Keamanan
+    * Pribadi
+    * Kustomisasi dan Konfigurasi
+ 
+* **Pertimbangan Desain untuk Platform Arsitektur SaaS**
+
+
+
+
 6. How to build a cloud-based SaaS Application
