@@ -87,3 +87,7 @@ Platform SaaS memiliki beragam kemampuan. Apalagi jika digabungkan dengan penawa
    * Multi-tenancy dalam arsitektur SaaS
 
 4. How to build a cloud-based SaaS Application
+   * Bahasa pemprograman yang digunakan adalah Python, karena python banyak melakukan banyak hal selain itu banyak digunakan pegembang karena Pengetikan dinamis, pemrograman meta, pembuatan prototipe cepat. Segalanya mungkin dengan Python. Python aman digunakan
+   * Database yang baik dan direkomendasikan adalah database berorientasi dokumen, database berorientasi dokumen berbeda dengan database relasional  karena memungkinkan lebih fleksibilitas, terutama ketika berhadapan dengan perubahan. Dan itu sering kali mengurangi ukuran basis data. Singkatnya, konsep DOB menawarkan pengalaman yang lebih kaya dengan teknik pemrograman modern.
+   *  **Contoh dari Database Dokumen**
+     * MongoDb
