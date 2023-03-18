@@ -87,7 +87,21 @@ Platform SaaS memiliki beragam kemampuan. Apalagi jika digabungkan dengan penawa
    * Multi-tenancy dalam arsitektur SaaS
 
 4. How to build a cloud-based SaaS Application
-   * Bahasa pemprograman yang digunakan adalah Python, karena python banyak melakukan banyak hal selain itu banyak digunakan pegembang karena Pengetikan dinamis, pemrograman meta, pembuatan prototipe cepat. Segalanya mungkin dengan Python. Python aman digunakan
-   * Database yang baik dan direkomendasikan adalah database berorientasi dokumen, database berorientasi dokumen berbeda dengan database relasional  karena memungkinkan lebih fleksibilitas, terutama ketika berhadapan dengan perubahan. Dan itu sering kali mengurangi ukuran basis data. Singkatnya, konsep DOB menawarkan pengalaman yang lebih kaya dengan teknik pemrograman modern.
-   *  **Contoh dari Database Dokumen**
-     * MongoDb
+* **Programming Language**
+Bahasa pemprograman yang digunakan adalah Python, karena python banyak melakukan banyak hal selain itu banyak digunakan pegembang karena Pengetikan dinamis, pemrograman meta, pembuatan prototipe cepat. Segalanya mungkin dengan Python. Python aman digunakan
+* **Database**
+Yang baik dan direkomendasikan adalah database berorientasi dokumen, database berorientasi dokumen berbeda dengan database relasional  karena memungkinkan lebih fleksibilitas, terutama ketika berhadapan dengan perubahan. Dan itu sering kali mengurangi ukuran basis data. Singkatnya, konsep DOB menawarkan pengalaman yang lebih kaya dengan teknik pemrograman modern.
+* **Contoh dari Database Dokumen**
+   *  MongoDb
+* **Queuing system for your SaaS application**
+A message queuing system is an asynchronous communication protocol, enabling sender and receiver of a message not interacting at the same time. Also known as Message Queuing (MSMQ) technology it enables web apps to run at different times and to communicate with various 3rd party integrations / APIs / and other services asynchronously.
+  * RabbitMQ
+  * AWS & EC2
+  * Web Storage S3
+* **Content Delivery Network for your SaaS application**
+A content delivery network (CDN) is basically a system of distributed servers which enables you to serve content to your app users with high performance and high availability.Let’s assume you have 3 EC2s installed. One in the US, one in Europe and one in Singapore. If someone from New York visits your app, the CDN enables you to serve content to the user through the EC2 located in the US. So you might wonder how to connect the dots. Below you can find an overview how we at Usersnap have set up our web app and the role of EC2, S3, and CDN.
+* **Recap: SaaS application set up**
+With Python, MongoDB – as a great document-orientated database, RabbitMQ software-wise the basic setup is done. However, there is way more to think of. In our follow-up posts, we will address the need of a proper monitoring and analytics software as well as how payment procedures can run smoothly in the cloud.
+Further on, we will also show you some in-depth guides on how to set up your tool stack for running your web app on a global scale.
+* **Start with software testing now**
+This article was brought to you by Usersnap – your feedback and bug tracking tool. Used by software companies like Facebook, Google, and AddThis. Read this blog post about how Usersnap helps during your SaaS application development.
