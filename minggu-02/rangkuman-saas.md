@@ -1,5 +1,6 @@
 
 ## Latihan
+## 1
 ### 1. What is the difference between IaaS, SaaS, and PaaS? ###
 * **Di IaaS**, Anda memilih lapisan OS yang sudah dikalengkan, menyebarkan tumpukan aplikasi, menerapkan kode Anda & kemudian menambahkan data Anda. Infrastruktur sebagai Layanan (IaaS): Ini hanya menyediakan infrastruktur dasar (Mesin virtual, Jaringan Definisi Perangkat Lunak, Penyimpanan terpasang). Pengguna akhir harus mengonfigurasi dan mengelola platform dan lingkungan, menerapkan aplikasi di dalamnya.
 ![image](https://user-images.githubusercontent.com/114986359/225198773-5635e844-202e-46df-9ae6-bd4bc29f2837.png)
@@ -105,3 +106,4 @@ With Python, MongoDB – as a great document-orientated database, RabbitMQ softw
 Further on, we will also show you some in-depth guides on how to set up your tool stack for running your web app on a global scale.
 * **Start with software testing now**
 This article was brought to you by Usersnap – your feedback and bug tracking tool. Used by software companies like Facebook, Google, and AddThis. Read this blog post about how Usersnap helps during your SaaS application development.
+## 2
