@@ -112,6 +112,6 @@ Further on, we will also show you some in-depth guides on how to set up your too
 * **Start with software testing now**
 This article was brought to you by Usersnap – your feedback and bug tracking tool. Used by software companies like Facebook, Google, and AddThis. Read this blog post about how Usersnap helps during your SaaS application development.
 ### 2 ###
+1. Visual Paradigma
+2. Lucidchart
 
-**1. Visual Paradigma**
-**2. Lucidchart**
