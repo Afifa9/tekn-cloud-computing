@@ -10,7 +10,8 @@
 * untuk menjelaskan perbedaan, populer juga gambar segitiga:
 ![image](https://user-images.githubusercontent.com/114986359/225199810-7210e404-80e2-4b2e-9d31-b794524a39e5.png)
 
-2. SaaS Platform Architecture ###
+2. SaaS Platform Architecture
+
 ![image](https://user-images.githubusercontent.com/114986359/225203151-1e3b220b-9d9c-4fcc-b7fe-163de3335557.png)
 
 Adalah model pengiriman dan lisensi perangkat lunak di mana perangkat lunak dilisensikan berdasarkan langganan dan dihosting secara terpusat. Pengguna dapat mengaksesnya dengan bantuan web browser. SaaS adalah model pengiriman umum untuk banyak aplikasi bisnis, termasuk perangkat lunak perkantoran dan perpesanan, perangkat lunak manajemen, virtualisasi, dll. Aplikasi SaaS adalah arsitektur multi-penyewa instans tunggal yang memberikan pengalaman kaya fitur yang bersaing dengan aplikasi lokal. Agregator menggabungkan penawaran SaaS dari berbagai vendor dan menawarkannya sebagai bagian dari platform aplikasi terpadu.
