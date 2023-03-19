@@ -22,8 +22,8 @@ Ada dua varietas utama SaaS:
      Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk kesehatan, pertanian, real estat, industri keuangan)
   * SaaS Horisontal
      Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
-
 ![image](https://user-images.githubusercontent.com/114986359/225203122-4d8ac532-41ff-462d-a59d-58e247edd024.png)
+
 * **Manfaat SAAS:**
 
  Manfaat Model pengiriman sesuai permintaan mengubah beberapa hal ini. Aplikasi SaaS tidak memerlukan penyebaran infrastruktur besar di lokasi klien. Integrasi dapat direncanakan dan dilaksanakan dengan upaya minimal, menciptakan salah satu interval waktu tersingkat yang memungkinkan untuk investasi TI yang besar. Ini juga memungkinkan sejumlah vendor SaaS untuk menawarkan "test drive" perangkat lunak mereka yang bebas risiko (dan seringkali gratis ) untuk jangka waktu terbatas, seperti 30 hari. Pelanggan diberi sebuah kesempatan untuk mencoba sebuah perangkat lunak sebelum membeli.
