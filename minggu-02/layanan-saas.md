@@ -1,1 +1,7 @@
-
+### 1. Gitmind ###
+GitMind adalah perangkat online gratis yang bisa kamu aplikasikan untuk membuat flowchart, bagan organisasi, diagram UML, diagram tulang ikan, diagram pohon, dan masih banyak lagi. Aplikasi ini hadir dengan banyak pilihan template flowchart yang bisa kamu pilih.
+Antarmuka dari aplikasi ini sangat bersih sehingga mudah dipelajari dan dikuasai. Bentuk flowchart yang paling umum dan paling sering digunakan pun dirancang dan diatur agar penempatannya mudah diakses saat membutuhkannya. Kamu hanya perlu menjalankan fungsionalitas drag and drop yang sederhana untuk mulai membuat struktur flowchart.
+Tidak hanya itu, kamu juga dapat mengekspor gambar Anda ke berbagai format file, seperti PDF, PNG, JPEG, dan SVG. Kamu pun dapat mengatur kata sandi untuk flowchart dan membagikannya dengan tim. Semua fungsi ini menjadikan GitMind sebagai alat pembuat flowchart yang hebat bagi para pemula.
+### 2. Miro ###
+Miro. Layanan untuk membuat flowchart ini punya fitur dan pilihan template yang lengkap. Kamu bisa menyesuaikan pembuatan flowchart dengan kebutuhan. Misalnya, untuk brainstorming dengan teman kerja, kuliah atau sekolah. Kamu dapat menambahkan team board dan membuat flowchart bersama dengan rekan-rekan secara daring.
+Miro dilengkapi dengan banyak tools bermanfaat. Di antaranya ada opsi penambahan sticky notes, stickers, kanban, pengubah bentuk flowchart, dan masih banyak lagi. Beberapa fitur unggulan seperti voting dan video chat tak dapat diakses secara gratis. Kamu perlu meng-upgrade plan langganan terlebih dulu. Tarifnya dimulai dari $8 atau sekitar Rp120.000 per bulan.
