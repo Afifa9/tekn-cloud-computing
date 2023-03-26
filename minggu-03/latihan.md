@@ -1,2 +1,2 @@
 **1. Masuk Ke Dokumentasi Cyclic**
-![gmb01](https://user-images.githubusercontent.com/114986359/224531390-35c58faf-87f4-48a7-95d5-97fe68b1d704.png)
+![gmb01](https://github.com/Afifa9/tekn-cloud-computing/blob/f2d70d797ad86b62bc40d3a62470e5b85707ccb9/minggu-03/Gambar/01.png)
