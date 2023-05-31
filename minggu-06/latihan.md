@@ -21,5 +21,24 @@ Install Go
 MySQL
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/dc2272a4-67b2-4ec1-bd52-38c456f5a2d4)
 
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/539dcd3c-7a37-4fe6-a3b8-1313ab594844)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/e909c619-696a-4065-8f01-8eb0b983093a)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8b510692-1f3a-4959-a743-679c0be532cc)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/39f52ebe-20c1-4965-9958-445481f30375)
+
+
 #### 2. Buat 2 contoh program Go masing-masing untuk koneksi dan membaca data dari MySQL dan MongoDB.
+contoh Mysql
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1b177f6b-9ef2-4403-9c0a-0516cdc2e722)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f79aca99-6e76-42bc-b1f8-dfa0e16d6cdc)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f5b03562-5afe-4099-a430-7699be1ced83)
+
+
+
 #### 3. Dengan menggunakan Gin, buatlah RESTful API untuk membaca dara dari MySQL dan MongoDB tersebut.
