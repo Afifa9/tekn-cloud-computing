@@ -34,6 +34,21 @@ contoh Mysql
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f5b03562-5afe-4099-a430-7699be1ced83)
 
+Contoh Mongodb
 
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/4412ed52-6724-47a0-b23c-e6b2e8d8e26a)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/3b1bbac9-0d1b-4d86-a9e6-154b97360426)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/bec013b3-51d2-41fe-aa3e-46eb9988afe2)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/0e80cdf7-dff1-427e-9469-3ba8426f4cd8)
 
 #### 3. Dengan menggunakan Gin, buatlah RESTful API untuk membaca dara dari MySQL dan MongoDB tersebut.
+Restful Api 
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5f8e600a-9b90-4587-9a23-bf8afd03345a)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1827d0a9-7de2-4620-b143-56fc29e658fb)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f7896e0a-aa82-49cd-9823-481f87eb5e8f)
