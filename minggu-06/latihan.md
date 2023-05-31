@@ -25,11 +25,6 @@ MySQL
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/e909c619-696a-4065-8f01-8eb0b983093a)
 
-![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8b510692-1f3a-4959-a743-679c0be532cc)
-
-![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/39f52ebe-20c1-4965-9958-445481f30375)
-
-
 #### 2. Buat 2 contoh program Go masing-masing untuk koneksi dan membaca data dari MySQL dan MongoDB.
 contoh Mysql
 
