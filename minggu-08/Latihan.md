@@ -14,7 +14,7 @@ Step 2: Create a Dockerfile
 
 ![yml_1](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/99b13ce3-10d9-422e-b76f-3043c1d311d1)
 
-![7](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/7e7cc6c4-3d00-4c0f-8171-7c880887a383)
+![8](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/fd78f31c-acbc-498f-b4e8-eb1742b6f434)
 
 
 Step 3: Define services in a Compose file
