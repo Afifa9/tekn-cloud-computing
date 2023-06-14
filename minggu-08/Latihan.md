@@ -6,6 +6,7 @@ Step 1: Define the application dependencies
 
 ![app py](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/c827d178-dae3-4a35-9003-7d61aae17ec6)
 
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/4d974b45-a037-42dc-9151-8b4eae092011)
 
 
 Step 2: Create a Dockerfile
