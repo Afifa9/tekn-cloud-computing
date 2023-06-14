@@ -20,7 +20,17 @@ Step 4: Build and run your app with Compose
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1311ef1d-1812-4162-b133-f9a3d1753c4a)
 
-![6](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/a02d2681-9131-4161-91c8-de359b350586)
+![2](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8d4632a2-b389-4a80-ade9-1ec48975e7e7)
+
+![3](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/e0895a9b-915c-46f8-8be2-e9b7436f196c)
+
+![4](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/92e0a4ec-3aca-49dd-8334-5db1d658ebef)
+
+![5](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/c4b8fad6-03a5-4779-81e3-44c167de85b5)
+
+![6](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/79559306-c965-4d31-8b0a-8e3e2f53a6a2)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1a957de8-ea6f-40e8-95d4-0840e092b22c)
 
 
 Step 5: Edit the Compose file to add a bind mount
