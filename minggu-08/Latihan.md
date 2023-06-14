@@ -2,7 +2,10 @@ Try Docker Compose
 
 Step 1: Define the application dependencies
 
-![1](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/13cb89d4-4f77-4f7b-b1ce-e6b2a70f3763)
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/9a6050cd-a2d9-43f7-9b25-b97542f78780)
+
+![app py](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/c827d178-dae3-4a35-9003-7d61aae17ec6)
+
 
 
 Step 2: Create a Dockerfile
