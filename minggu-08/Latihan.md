@@ -1,4 +1,4 @@
-Try Docker Compose
+## Try Docker Compose
 
 Step 1: Define the application dependencies
 
@@ -35,10 +35,26 @@ Step 4: Build and run your app with Compose
 
 Step 5: Edit the Compose file to add a bind mount
 
-
+![yml_update](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/def069fb-8c27-4ba7-9c4c-f8a6a3067838)
 
 Step 6: Re-build and run the app with Compose
 
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/4ca3f934-f89c-41d4-ab4b-e6db4c198a67)
+
 Step 7: Update the application
 
+![app py_update](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/7f2e81e7-853f-4ac2-b0ac-dc983948b867)
+
+![hello_docker](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/a943c9ca-e619-4630-98d0-36b2f755cb15)
+
 Step 8: Experiment with some other commands
+
+![8](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/925ce197-bf63-444d-a0a0-860ebb580b7d)
+
+![env](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/b2389eb1-c3d0-49e3-9e7f-775d95fbb34b)
+
+![stop](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/407d3a75-9b33-4d9b-9086-b3159a3e621f)
+
+![volume](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/09cf0370-0084-4fb9-9d38-05ce34e6198f)
+
+
