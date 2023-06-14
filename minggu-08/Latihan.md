@@ -8,8 +8,14 @@ Step 1: Define the application dependencies
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/4d974b45-a037-42dc-9151-8b4eae092011)
 
-
 Step 2: Create a Dockerfile
+
+![1](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/a33f43ae-3224-49c3-9f3f-4279287e8f31)
+
+![yml_1](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/99b13ce3-10d9-422e-b76f-3043c1d311d1)
+
+![7](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/7e7cc6c4-3d00-4c0f-8171-7c880887a383)
+
 
 Step 3: Define services in a Compose file
 
