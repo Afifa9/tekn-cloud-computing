@@ -12,16 +12,20 @@ Step 2: Create a Dockerfile
 
 ![1](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/a33f43ae-3224-49c3-9f3f-4279287e8f31)
 
-![yml_1](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/99b13ce3-10d9-422e-b76f-3043c1d311d1)
-
-![8](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/fd78f31c-acbc-498f-b4e8-eb1742b6f434)
-
-
 Step 3: Define services in a Compose file
+
+![yml_1](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/99b13ce3-10d9-422e-b76f-3043c1d311d1)
 
 Step 4: Build and run your app with Compose
 
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1311ef1d-1812-4162-b133-f9a3d1753c4a)
+
+![6](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/a02d2681-9131-4161-91c8-de359b350586)
+
+
 Step 5: Edit the Compose file to add a bind mount
+
+
 
 Step 6: Re-build and run the app with Compose
 
