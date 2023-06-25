@@ -84,16 +84,66 @@ Step 1: The Basics
 
 Step 2: Create an overlay network
 
-![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/e894a3f6-d67f-429a-b14b-dc2885ea37cc)
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/e503ace1-f993-4784-95ae-e5d208e703bc)
 
-![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5ffd1c5f-e9ef-48af-ae4e-37047f18d423)
 
-![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1c2a0c77-3ed8-4e15-99da-88bcdc76f41f)
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5a450312-2b1f-4ffd-a28a-bbb0c64ee77c)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/6aa2f027-a492-4b4c-88f2-54875768921a)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8b8def20-7726-40de-9fad-b7c670dbd82e)
 
 Step 3: Create a service
 
-![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/98f667f6-e15b-484a-a8f7-ba61a4a910be)
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/4de1c462-e3c1-451b-a39b-97119cdebd0e)
 
 
-![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/53b7a7ff-0f55-4af0-8b15-df662f70b668)
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/28ae64c2-3847-4074-916e-7e97b5d2ea84)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/d69234a3-6ccb-4854-90be-629b1a15bee1)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/7db75fe1-4f18-4b0f-a56b-ae4b9193b35a)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/0e12f72b-81e4-4b36-b418-0b4faf61fedb)
+
+Step 4: Test the network
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/036b8d2c-3d18-4d79-8d35-b8906573dfd9)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/080cb20b-6b8c-455c-8999-8a1dd6785918)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/0b3661eb-b389-4a8d-9c1c-d57b38d8f514)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/7f7ad959-1cde-4f0b-a5d6-9772e2d6d328)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8b8f2143-cfe6-4a07-90fa-042391f7ebd7)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/85d8915d-6e69-4f6a-b6f9-baecba8dff99)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/cac45a3f-5267-4127-b456-af1c10ae8e4f)
+
+Cleaning Up
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/2aa0d8da-224a-4b20-b06e-26b8ba344d92)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/a9ab426f-38b5-44c5-a385-8bac50e4f1f0)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/738fd914-a652-4386-a447-37d397139557)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/6f9e8ad0-0f98-4091-948d-a9715b122359)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/bd33cb8e-643b-4552-a8db-5af7f0dcaf5a)
 
