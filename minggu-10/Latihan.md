@@ -76,3 +76,24 @@ Step 4: Configure NAT for external connectivity
 
 Section #3 - Overlay Networking
 Step 1: The Basics
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/875519ac-1569-4ca9-bac1-2052c6829f45)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8d89dbf0-c79a-4d7f-a873-f3a33866c617)
+
+Step 2: Create an overlay network
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/e894a3f6-d67f-429a-b14b-dc2885ea37cc)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5ffd1c5f-e9ef-48af-ae4e-37047f18d423)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1c2a0c77-3ed8-4e15-99da-88bcdc76f41f)
+
+Step 3: Create a service
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/98f667f6-e15b-484a-a8f7-ba61a4a910be)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/53b7a7ff-0f55-4af0-8b15-df662f70b668)
+
