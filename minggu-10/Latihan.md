@@ -47,3 +47,32 @@ Step 2: Connect a container
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8b48438b-4ae4-4450-ad46-4b3646edeb08)
 
 Step 3: Test network connectivity
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/d26d7efb-6d94-4286-8f01-b4ad84f8585d)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/ec1f2817-f150-4e2b-beeb-4a849c1990a5)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f371ab90-e68f-4614-8e31-7602921e1ed9)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/cdf8b471-e539-4dfc-9918-15d2ed612270)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/47819bf0-5f27-41da-ac08-d7f1b399de6b)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/70f75628-c814-4982-a537-6eb474156f2f)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/78e03b1c-d7da-46c3-86e2-1f3bf10235d8)
+
+Step 4: Configure NAT for external connectivity
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/6b50108e-1de3-4d98-99b8-8c41f86431ec)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/16a7bd4b-0680-4fcd-a4d5-9b7e0912e6fb)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/d7581155-4373-460f-bd62-270821ba8451)
+
+Section #3 - Overlay Networking
+Step 1: The Basics
