@@ -1,3 +1,3 @@
 
-[1.LATIHAN](https://github.com/Afifa9/tekn-cloud-computing/blob/1b4d119d1e89c80eee70b7f63f298bb871ae448b/minggu-10/Latihan.md)
+[1.LATIHAN](https://github.com/Afifa9/tekn-cloud-computing/blob/dcb052bdce35a3fa7e7968220e98a06d4ab9cd6b/minggu-11/Latihan.md)
 
