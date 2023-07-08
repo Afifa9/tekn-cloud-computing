@@ -1,5 +1,4 @@
-
-##Stage Setup
+## Stage Setup
  
 •	Step 0: Basic Link Extractor Script
  
