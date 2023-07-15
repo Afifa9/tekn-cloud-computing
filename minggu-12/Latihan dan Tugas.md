@@ -57,3 +57,41 @@
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/56f17104-478d-4dc5-91c1-f18afe54d167)
 
 # Section #5 - Drain a node and reschedule the containers
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5239b484-504e-46d4-af7f-b7d0a0ffe56a)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/7595afc8-cc7c-45a7-9d7d-9aea0e5badcc)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/d9086bbb-3ef3-4d1c-8915-b8a346fb217e)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/db5d80ee-faaa-41b2-9bfc-3ed321771829)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/04902f64-1559-463c-bbea-83fdf0c9d32c)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8abf7a80-90ea-448b-89dd-81e39e3a4109)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/36b9edf7-c333-41c6-81e4-279a77386c4b)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/0865c73f-98b0-44b3-b398-18507db32676)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1cab322b-a501-44cc-8161-64d58fb4ae94)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/34f288eb-4ed5-4a75-90db-d14f1bdcd555)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/55171ea8-5e3b-4755-a45d-e989b7cb1ea8)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/ba1a069a-3f7c-42f7-873a-ef84ad57b755)
+
+# Cleaning Up
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/55fc98ea-2a05-4308-a5dc-685fb33446bf)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/6bd4f1f9-581b-4adb-a93b-82147ff0e65d)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/fa84e4ce-69d0-400d-be65-f6bff639d335)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/cdf01431-d232-449a-812d-56621eca31db)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/831a282d-faac-4ead-8bfa-389540b881e7)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/28ea2d86-1b46-4399-a4e3-9276fcbcb075)
