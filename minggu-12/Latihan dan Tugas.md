@@ -13,3 +13,11 @@
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1f242837-af48-49c0-9eab-c18ffbe96b9b)
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/ab1854d4-3e06-4fc9-b05f-b452eaa247bd)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/817b44e7-939f-4698-8548-dd1491fdfc23)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/fddcfe96-bbdd-494e-b09e-69568627c3cc)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f5a5e4f7-85ce-4759-8ab7-ef673707b5af)
+
+## Step 2.2 - Join Worker nodes to the Swarm
