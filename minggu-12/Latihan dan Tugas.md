@@ -6,6 +6,9 @@
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5ef996e6-dccb-4fde-a0da-b3ffca1d40f4)
 
-# Step 2.1 - Create a Manager node
+## Step 2.1 - Create a Manager node
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5dee6d51-9e49-4f1b-bd55-8b2d6e929e1f)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/1f242837-af48-49c0-9eab-c18ffbe96b9b)
+
