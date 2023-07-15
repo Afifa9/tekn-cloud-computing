@@ -30,3 +30,12 @@
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/59027ea7-222b-4ede-a67d-13539dad6ce4)
 
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/316428d5-84ab-4da5-94ef-9863c19e5bfb)
+
+# Section #3 - Deploy applications across multiple hosts
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/4598e8d3-9825-4425-bf9a-0164f0742ca6)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/719db715-0a2a-4eba-b690-a413d9bb02d9)
+
+# Section #4 - Scale the application
