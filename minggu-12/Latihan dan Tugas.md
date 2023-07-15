@@ -39,3 +39,21 @@
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/719db715-0a2a-4eba-b690-a413d9bb02d9)
 
 # Section #4 - Scale the application
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/31677c68-1980-45c4-a7ca-91457bc9b542)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/e5855c9f-4c1a-4d31-bf91-a695973310c2)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/52ec3f55-5eb7-4f80-9f05-29e002d4fa20)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8922edb8-d3ec-47f4-ace1-fc2253daf41a)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/c19d9fca-0ac6-4f81-8adf-81c21911f524)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/c0e6e89b-1fce-4c90-8e5a-883d8dc2c995)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/5ce243ec-1c34-4fdb-84d3-7df83fbc3f75)
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/56f17104-478d-4dc5-91c1-f18afe54d167)
+
+# Section #5 - Drain a node and reschedule the containers
