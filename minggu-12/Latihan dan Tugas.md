@@ -35,15 +35,22 @@ Direct ke web browser
 
 
 2. See the Deployment that was created earlier, with following this command ```kubectl get deployments``` in the command prompt.<br>
-<div align="center"><img src="gambar/5.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/19592ca3-30eb-41dc-8767-53a26bc8d8bf)
+
+
 3. See the Pod with following this command ```kubectl get pods``` in the command prompt.<br>
-<div align="center"><img src="gambar/6.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/6884aae6-f60f-46c9-9ada-bc28ad49767f)
 
 4. See the cluster events with following this command ```kubectl get events``` in the command prompt.<br>
-<div align="center"><img src="gambar/7.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/a0c95517-2030-46cb-bc25-8cf93781c8fc)
+
 
 5. See the kubectl configuration with following this command ```kubectl config view``` in the command prompt.<br>
-<div align="center"><img src="gambar/8.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/6aa52859-66dd-4c3c-b123-402e1ce81755)
 
 ## Step 3 : [Create a Service](https://kubernetes.io/docs/tutorials/hello-minikube/#create-a-service)
 
