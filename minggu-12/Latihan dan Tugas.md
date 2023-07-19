@@ -2,8 +2,11 @@
 
 ## Step 1 : [Minikube Installation & Configuration](https://minikube.sigs.k8s.io/docs/start/)
 1. Download Minikube Installer and run the installer for the latest release in link [minikube start](https://minikube.sigs.k8s.io/docs/start/).<br>
-<div align="center"><img src="gambar/p1.jpg"></div>
-<div align="center"><img src="gambar/p2.jpg"></div><br>
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/214fbb89-aa97-4308-862d-560468a05884)
+
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/842e006e-6e01-4420-a07c-0708a7d100fd)
+
 
 2. Start Cluster by run a command prompt with administrator access and then type the following command ```minikube start```:<br>
 <div align="center"><img src="gambar/1.PNG"></div><br>
