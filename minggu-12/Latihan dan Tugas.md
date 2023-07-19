@@ -19,14 +19,21 @@
 
 
 4. Open a new terminal and type the following command ```minikube dashboard``` in the command prompt and then access in [this link](http://127.0.0.1:51134/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/#/workloads?namespace=default).<br>
-<div align="center"><img src="gambar/3.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/9ff6e93f-71e9-4bbc-b154-bba42202f007)
+
 Direct ke web browser
-<div align="center"><img src="gambar/3 dash.png"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/8fe0c03f-6de3-4c57-9aac-4cfea4d8229d)
+
 
 ## Step 2 : [Create a Deployment](https://kubernetes.io/docs/tutorials/hello-minikube/#create-a-deployment)
 
 1. Type the following command ```kubectl create``` to create a Deployment that manages a Pod in the command prompt. The Pod runs a Container based on the provided Docker image.<br>
-<div align="center"><img src="gambar/4.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/b8328059-6a55-4c8f-b9cb-ee55707f8538)
+
+
 2. See the Deployment that was created earlier, with following this command ```kubectl get deployments``` in the command prompt.<br>
 <div align="center"><img src="gambar/5.PNG"></div><br>
 3. See the Pod with following this command ```kubectl get pods``` in the command prompt.<br>
