@@ -1,1 +1,1 @@
-[1.LATIHAN & TUGAS ](https://github.com/Afifa9/tekn-cloud-computing/blob/dcb052bdce35a3fa7e7968220e98a06d4ab9cd6b/minggu-11/Latihan.md)
+[1.LATIHAN & TUGAS ](https://github.com/Afifa9/tekn-cloud-computing/blob/8d90e237637fb7a1a54e8bb7333194b6e44ff8fe/minggu-12/Latihan%20dan%20Tugas.md)
