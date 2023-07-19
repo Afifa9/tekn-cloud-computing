@@ -11,11 +11,13 @@
 2. Start Cluster by run a command prompt with administrator access and then type the following command ```minikube start```:<br>
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f4c4a29e-4d50-4787-9851-8dcb712daafa)
+<p> Saat menjalankan perintah minikube start pada command prompt As administrator telah berhasil dijalankan</p>
 
 
 3. Try Interact With The Cluster and then type the following command ```kubectl get po -A``` in the command prompt.<br>
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/fa5d2599-5ae3-4490-805d-cb940ccaa393)
+<p> Setelah menjankan kan minikube, selanjutnya menjalankan perintah 'kubectl get po -A' dari hasil tersebut terdapat daftar dari cluster minikube </p>
 
 
 4. Open a new terminal and type the following command ```minikube dashboard``` in the command prompt and then access in [this link](http://127.0.0.1:51134/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/#/workloads?namespace=default).<br>
@@ -100,7 +102,7 @@ The application code inside the test image only listens on TCP port 8080. If you
 1. Try to clean up the resources you created in your cluster, with following this command ```kubectl delete service hello-node & kubectl delete deployment hello-node```:<br>
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/c7aa6ba9-d472-445a-948e-f7894367f210)
-
+<p> kubectl delete service hello-node & kubectl delete deployment hello-node digunakan untuk membersihkan cluster minikube dan menghapus deploy hello-node</p>
 
 ![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/690ac07b-dd7f-4923-91a1-8dd4c19e0dbc)
 
