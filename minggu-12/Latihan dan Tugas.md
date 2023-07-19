@@ -9,10 +9,14 @@
 
 
 2. Start Cluster by run a command prompt with administrator access and then type the following command ```minikube start```:<br>
-<div align="center"><img src="gambar/1.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/f4c4a29e-4d50-4787-9851-8dcb712daafa)
+
 
 3. Try Interact With The Cluster and then type the following command ```kubectl get po -A``` in the command prompt.<br>
-<div align="center"><img src="gambar/2.PNG"></div><br>
+
+![image](https://github.com/Afifa9/tekn-cloud-computing/assets/114986359/fa5d2599-5ae3-4490-805d-cb940ccaa393)
+
 
 4. Open a new terminal and type the following command ```minikube dashboard``` in the command prompt and then access in [this link](http://127.0.0.1:51134/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/#/workloads?namespace=default).<br>
 <div align="center"><img src="gambar/3.PNG"></div><br>
